@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jaroslav-Tran/Bay_Wheels_Data_Exploration/master)
 ## SUMMARY
 The focus of this project was primarily on data wrangling. I have executed the whole process from Data Gathering, Wrangling to Analysis and Visualisation. 
 
